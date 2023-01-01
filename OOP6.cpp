@@ -1,9 +1,3 @@
-/*
-Write C++ program using STL for sorting and searching with user defined records such as 
-person record(Name, DOB, Telephone number), Item record (Item code, name, cost, quantity) 
-using vector container.
-*/
-
 #include <iostream>
 #include <algorithm>
 #include <vector>
